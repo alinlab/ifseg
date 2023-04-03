@@ -1,0 +1,1 @@
+from .segofa import SegOFAModel, segofa_base_architecture, segofa_large_architecture, segofa_huge_architecture
