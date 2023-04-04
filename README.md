@@ -84,7 +84,7 @@ To obtain the web image visualization, follow the directions in <code>visualize_
 
 The pre-trained checkpoint for the visualization can be downloaded from https://drive.google.com/file/d/167sIrrSsBTRQlrVHYMKYoWA5A9r04eAD/view?usp=sharing
 
-One may also produce their own checkpoint with novel semantic categories. For example, based on a exmaple script in <code>./run_scripts/IFSeg</code>, modify <code>category_list</code> and <code>num_seg_tokens</code> for your segmentation setting.
+One may also produce their own checkpoint with novel semantic categories. For example, based on a example script in <code>./run_scripts/IFSeg</code>, modify <code>category_list</code> and <code>num_seg_tokens</code> for your segmentation setting.
 
 <img width="543" alt="ifseg_vis" src="https://user-images.githubusercontent.com/20102/228140726-a683839d-5038-4961-8f94-5c5a9b3dac2c.png">
 <br></br>
