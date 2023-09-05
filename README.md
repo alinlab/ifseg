@@ -1,5 +1,5 @@
 # IFSeg: Image-free Semantic Segmentation via Vision-Language Model
-The official codebase for IFSeg: Image-free Semantic Segmentation via Vision-Language Model (CVPR 2023)
+The official codebase for <a href="https://arxiv.org/abs/2303.14396">IFSeg: Image-free Semantic Segmentation via Vision-Language Model (CVPR 2023)</a>
 
 <img width="1381" alt="ifseg_method" src="https://user-images.githubusercontent.com/20102/228140458-d36e4050-93a0-4fe3-b508-c4943892893d.png">
 
